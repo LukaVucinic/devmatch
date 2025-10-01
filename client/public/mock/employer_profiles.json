@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "user_id": 2,
+    "company_name": "TechNova",
+    "website": "https://technova.dev",
+    "about": "Innovative SaaS company focused on cloud solutions.Innovative SaaS company focused on cloud solutions.Innovative SaaS company focused on cloud solutions.Innovative SaaS company focused on cloud solutions.Innovative SaaS company focused on cloud solutions.Innovative SaaS company focused on cloud solutions.",
+    "location": "Belgrade",
+    "verified": true,
+    "country": "Serbia",
+    "email": "company@company.com",
+    "tel": "+382 566 125 22"
+  }
+]
